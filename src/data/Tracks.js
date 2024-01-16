@@ -72,7 +72,7 @@ export const tracks = [
   },
   {
     id: '8',
-    title: '7. AL-ANFAAL',
+    title: '8. AL-ANFAAL',
     artist: 'Dr. Israr Ahmad',
     duration: '01:56:05',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/008%20AL-ANFAAL.mp3',
@@ -81,7 +81,7 @@ export const tracks = [
   },
   {
     id: '9',
-    title: '8. AT-TAUBAH',
+    title: '9. AT-TAUBAH',
     artist: 'Dr. Israr Ahmad',
     duration: '02:53:19',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/009%20AT-TAUBAH.mp3',
@@ -90,7 +90,7 @@ export const tracks = [
   },
   {
     id: '10',
-    title: '9. YOUNAS',
+    title: '10. YOUNAS',
     artist: 'Dr. Israr Ahmad',
     duration: '01:34:27',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/010%20YOUNAS.mp3',
@@ -99,7 +99,7 @@ export const tracks = [
   },
   {
     id: '11',
-    title: '10. HUD',
+    title: '11. HUD',
     artist: 'Dr. Israr Ahmad',
     duration: '01:53:06',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/011%20HUD.mp3',
@@ -108,7 +108,7 @@ export const tracks = [
   },
   {
     id: '12',
-    title: '11. YOUSAF',
+    title: '12. YOUSAF',
     artist: 'Dr. Israr Ahmad',
     duration: '01:32:44',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/012%20YOUSAF.mp3',
@@ -117,7 +117,7 @@ export const tracks = [
   },
   {
     id: '13',
-    title: '12. RA\'AD',
+    title: '13. RA\'AD',
     artist: 'Dr. Israr Ahmad',
     duration: '00:40:36',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/013%20RA_AD.mp3',
@@ -126,7 +126,7 @@ export const tracks = [
   },
   {
     id: '14',
-    title: '13. IBRAHEEM',
+    title: '14. IBRAHEEM',
     artist: 'Dr. Israr Ahmad',
     duration: '00:53:17',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/014%20IBRAHEEM.mp3',
@@ -135,7 +135,7 @@ export const tracks = [
   },
   {
     id: '15',
-    title: '14. AL-HIJR',
+    title: '15. AL-HIJR',
     artist: 'Dr. Israr Ahmad',
     duration: '01:10:24',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/015%20AL-HIJR.mp3',
@@ -144,7 +144,7 @@ export const tracks = [
   },
   {
     id: '16',
-    title: '15. NAHL',
+    title: '16. NAHL',
     artist: 'Dr. Israr Ahmad',
     duration: '01:56:54',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/016%20NAHL.mp3',
@@ -153,7 +153,7 @@ export const tracks = [
   },
   {
     id: '17',
-    title: '16. BANI-ISRAIL',
+    title: '17. BANI-ISRAIL',
     artist: 'Dr. Israr Ahmad',
     duration: '02:18:30',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/017%20BANI-ISRAIL.mp3',
@@ -162,7 +162,7 @@ export const tracks = [
   },
   {
     id: '18',
-    title: '17. KAHF',
+    title: '18. KAHF',
     artist: 'Dr. Israr Ahmad',
     duration: '02:12:24',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/018%20KAHF.mp3',
@@ -171,7 +171,7 @@ export const tracks = [
   },
   {
     id: '19',
-    title: '18. MARYAM',
+    title: '19. MARYAM',
     artist: 'Dr. Israr Ahmad',
     duration: '01:05:57',
     url: 'https://archive.org/download/BayanUlQuranByDr.IsrarAhmed_201707/019%20MARYAM.mp3',
@@ -180,7 +180,7 @@ export const tracks = [
   },
   {
     id: '20',
-    title: '19. TAA\'HAA',
+    title: '20. TAA\'HAA',
     artist: 'Dr. Israr Ahmad',
     duration: '01:08:58',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/020%20TAA%20HAA.mp3',
@@ -189,7 +189,7 @@ export const tracks = [
   },
   {
     id: '21',
-    title: '20. AMBIA',
+    title: '21. AMBIA',
     artist: 'Dr. Israr Ahmad',
     duration: '01:18:46',
     url: 'https://archive.org/download/BayanUlQuranByDr.IsrarAhmed_201707/021%20AMBIA.mp3',
@@ -198,7 +198,7 @@ export const tracks = [
   },
   {
     id: '22',
-    title: '21. HAJJ',
+    title: '22. HAJJ',
     artist: 'Dr. Israr Ahmad',
     duration: '01:42:36',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/022%20HAJJ.mp3',
@@ -207,7 +207,7 @@ export const tracks = [
   },
   {
     id: '23',
-    title: '22. AL-MO\'MINOON',
+    title: '23. AL-MO\'MINOON',
     artist: 'Dr. Israr Ahmad',
     duration: '01:02:48',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/023%20AL-MO_MINOON.mp3',
@@ -216,7 +216,7 @@ export const tracks = [
   },
   {
     id: '24',
-    title: '23. AN-NOOR',
+    title: '24. AN-NOOR',
     artist: 'Dr. Israr Ahmad',
     duration: '01:38:52',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/024%20AN-NOOR.mp3',
@@ -225,7 +225,7 @@ export const tracks = [
   },
   {
     id: '25',
-    title: '24. AL-FURQAN',
+    title: '25. AL-FURQAN',
     artist: 'Dr. Israr Ahmad',
     duration: '01:05:21',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/025%20AL-FURQAN.mp3',
@@ -234,7 +234,7 @@ export const tracks = [
   },
   {
     id: '26',
-    title: '25. SHUARAA',
+    title: '26. SHUARAA',
     artist: 'Dr. Israr Ahmad',
     duration: '01:01:02',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/026%20SHUARAA.mp3',
@@ -243,7 +243,7 @@ export const tracks = [
   },
   {
     id: '27',
-    title: '26. AN-NAML',
+    title: '27. AN-NAML',
     artist: 'Dr. Israr Ahmad',
     duration: '00:53:24',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/027%20AN-NAML.mp3',
@@ -252,7 +252,7 @@ export const tracks = [
   },
   {
     id: '28',
-    title: '27. AL-QASAS',
+    title: '28. AL-QASAS',
     artist: 'Dr. Israr Ahmad',
     duration: '01:36:48',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/028%20AL-QASAS.mp3',
@@ -261,7 +261,7 @@ export const tracks = [
   },
   {
     id: '29',
-    title: '28. AL-ANKABOOT',
+    title: '29. AL-ANKABOOT',
     artist: 'Dr. Israr Ahmad',
     duration: '01:11:16',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/029%20AL-ANKABOOT.mp3',
@@ -270,7 +270,7 @@ export const tracks = [
   },
   {
     id: '30',
-    title: '29. AR-ROOM',
+    title: '30. AR-ROOM',
     artist: 'Dr. Israr Ahmad',
     duration: '00:45:47',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/030%20AR-ROOM.mp3',
@@ -279,7 +279,7 @@ export const tracks = [
   },
   {
     id: '31',
-    title: '30. LUQMAN',
+    title: '31. LUQMAN',
     artist: 'Dr. Israr Ahmad',
     duration: '00:42:45',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/031%20LUQMAN.mp3',
@@ -288,7 +288,7 @@ export const tracks = [
   },
   {
     id: '32',
-    title: '31. AS-SAJDAH',
+    title: '32. AS-SAJDAH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:20:43',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/032%20US-SAJDAH.mp3',
@@ -297,7 +297,7 @@ export const tracks = [
   },
   {
     id: '33',
-    title: '32. AL-AHZAB',
+    title: '33. AL-AHZAB',
     artist: 'Dr. Israr Ahmad',
     duration: '01:56:13',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/033%20AL-AHZAB.mp3',
@@ -306,7 +306,7 @@ export const tracks = [
   },
   {
     id: '34',
-    title: '33. AS-SABA',
+    title: '34. AS-SABA',
     artist: 'Dr. Israr Ahmad',
     duration: '00:48:12',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/034%20AS-SABA.mp3',
@@ -315,7 +315,7 @@ export const tracks = [
   },
   {
     id: '35',
-    title: '34. AL-FATIR',
+    title: '35. AL-FATIR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:34:04',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/035%20AL-FATIR.mp3',
@@ -324,7 +324,7 @@ export const tracks = [
   },
   {
     id: '36',
-    title: '35. YASEEN',
+    title: '36. YASEEN',
     artist: 'Dr. Israr Ahmad',
     duration: '00:40:12',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/036%20YASEEN.mp3',
@@ -333,7 +333,7 @@ export const tracks = [
   },
   {
     id: '37',
-    title: '36. SAFFAAT',
+    title: '37. SAFFAAT',
     artist: 'Dr. Israr Ahmad',
     duration: '01:05:24',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/037%20SAFFAAT.mp3',
@@ -342,7 +342,7 @@ export const tracks = [
   },
   {
     id: '38',
-    title: '37. SUAD',
+    title: '38. SUAD',
     artist: 'Dr. Israr Ahmad',
     duration: '01:02:19',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/038%20SUAD.mp3',
@@ -351,7 +351,7 @@ export const tracks = [
   },
   {
     id: '39',
-    title: '38. AZ-ZUMR',
+    title: '39. AZ-ZUMR',
     artist: 'Dr. Israr Ahmad',
     duration: '01:11:13',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/039%20AZ-ZUMR.mp3',
@@ -360,7 +360,7 @@ export const tracks = [
   },
   {
     id: '40',
-    title: '39. AL-MO\'MIN',
+    title: '40. AL-MO\'MIN',
     artist: 'Dr. Israr Ahmad',
     duration: '01:03:47',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/040%20AL-MO_MIN.mp3',
@@ -369,7 +369,7 @@ export const tracks = [
   },
   {
     id: '41',
-    title: '40. HAA MEEM AS-SAJDAH',
+    title: '41. HAA MEEM AS-SAJDAH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:53:05',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/041%20HAA%20MEEM%20AS-SAJDAH.mp3',
@@ -387,7 +387,7 @@ export const tracks = [
   },
   {
     id: '43',
-    title: '42. AZ-ZUKHRUF',
+    title: '43. AZ-ZUKHRUF',
     artist: 'Dr. Israr Ahmad',
     duration: '00:37:51',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/043%20AZ-ZUKHRUF.mp3',
@@ -396,7 +396,7 @@ export const tracks = [
   },
   {
     id: '44',
-    title: '43. AD-DUKHAN',
+    title: '44. AD-DUKHAN',
     artist: 'Dr. Israr Ahmad',
     duration: '00:27:19',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/044%20AD-DUKHAN.mp3',
@@ -405,7 +405,7 @@ export const tracks = [
   },
   {
     id: '45',
-    title: '44. JATHIA',
+    title: '45. JATHIA',
     artist: 'Dr. Israr Ahmad',
     duration: '00:29:00',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/045%20JATHIA.mp3',
@@ -414,7 +414,7 @@ export const tracks = [
   },
   {
     id: '46',
-    title: '45. AL-AHQAAF',
+    title: '46. AL-AHQAAF',
     artist: 'Dr. Israr Ahmad',
     duration: '00:42:39',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/046%20AL-AHQAAF.mp3',
@@ -423,7 +423,7 @@ export const tracks = [
   },
   {
     id: '47',
-    title: '46. Muhammad', // verify surah name
+    title: '47. Muhammad', // verify surah name
     artist: 'Dr. Israr Ahmad',
     duration: '00:46:13',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/047%20HAMMAD.mp3',
@@ -432,7 +432,7 @@ export const tracks = [
   },
   {
     id: '48',
-    title: '47. AL-FAT\'H',
+    title: '48. AL-FAT\'H',
     artist: 'Dr. Israr Ahmad',
     duration: '00:51:52',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/048%20AL-FAT_H.mp3',
@@ -441,7 +441,7 @@ export const tracks = [
   },
   {
     id: '49',
-    title: '48. AL-HUJRAAT',
+    title: '49. AL-HUJRAAT',
     artist: 'Dr. Israr Ahmad',
     duration: '00:37:01',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/049%20AL-HUJRAAT.mp3',
@@ -450,7 +450,7 @@ export const tracks = [
   },
   {
     id: '50',
-    title: '49. QAAF',
+    title: '50. QAAF',
     artist: 'Dr. Israr Ahmad',
     duration: '00:42:59',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/050%20QAAF.mp3',
@@ -459,7 +459,7 @@ export const tracks = [
   },
   {
     id: '51',
-    title: '50. AZ-ZARIYAAT',
+    title: '51. AZ-ZARIYAAT',
     artist: 'Dr. Israr Ahmad',
     duration: '00:22:06',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/051%20AZ-ZARIYAAT.mp3',
@@ -468,7 +468,7 @@ export const tracks = [
   },
   {
     id: '52',
-    title: '51. AT-TOOR',
+    title: '52. AT-TOOR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:23:08',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/052%20AT-TOOR.mp3',
@@ -477,7 +477,7 @@ export const tracks = [
   },
   {
     id: '53',
-    title: '52. AN-NAJAM',
+    title: '53. AN-NAJAM',
     artist: 'Dr. Israr Ahmad',
     duration: '00:36:20',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/053%20AN-NAJAM.mp3',
@@ -486,7 +486,7 @@ export const tracks = [
   },
   {
     id: '54',
-    title: '53. AL-QAMAR',
+    title: '54. AL-QAMAR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:26:42',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/054%20AL-QAMAR.mp3',
@@ -495,7 +495,7 @@ export const tracks = [
   },
   {
     id: '55',
-    title: '54. AR-REHMAN',
+    title: '55. AR-REHMAN',
     artist: 'Dr. Israr Ahmad',
     duration: '00:40:40',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/055%20AR-REHMAN.mp3',
@@ -504,7 +504,7 @@ export const tracks = [
   },
   {
     id: '56',
-    title: '55. AL-WAQI\'AH',
+    title: '56. AL-WAQI\'AH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:40:28',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/056%20AL-WAQI_AH.mp3',
@@ -513,7 +513,7 @@ export const tracks = [
   },
   {
     id: '57',
-    title: '56. AL-HADEED',
+    title: '57. AL-HADEED',
     artist: 'Dr. Israr Ahmad',
     duration: '01:45:42',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/057%20AL-HADEED.mp3',
@@ -522,7 +522,7 @@ export const tracks = [
   },
   {
     id: '58',
-    title: '57. AL-MUJADILAH',
+    title: '58. AL-MUJADILAH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:41:24',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/058%20AL-MUJADILAH.mp3',
@@ -531,7 +531,7 @@ export const tracks = [
   },
   {
     id: '59',
-    title: '58. AL-HASHR',
+    title: '59. AL-HASHR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:57:06',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/059%20AL-HASHR.mp3',
@@ -540,7 +540,7 @@ export const tracks = [
   },
   {
     id: '60',
-    title: '59. AL-MUMTAHINAH',
+    title: '60. AL-MUMTAHINAH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:28:39',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/060%20AL-MUMTAHINAH.mp3',
@@ -549,7 +549,7 @@ export const tracks = [
   },
   {
     id: '61',
-    title: '60. AS-SAFF',
+    title: '61. AS-SAFF',
     artist: 'Dr. Israr Ahmad',
     duration: '00:33:51',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/061%20AS-SAFF.mp3',
@@ -558,7 +558,7 @@ export const tracks = [
   },
   {
     id: '62',
-    title: '61. JUMU\'AA',
+    title: '62. JUMU\'AA',
     artist: 'Dr. Israr Ahmad',
     duration: '00:25:22',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/062%20JUMU_AA.mp3',
@@ -567,7 +567,7 @@ export const tracks = [
   },
   {
     id: '63',
-    title: '62. AL-MUNAFIQOON',
+    title: '63. AL-MUNAFIQOON',
     artist: 'Dr. Israr Ahmad',
     duration: '00:28:16',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/063%20AL-MUNAFIQOON.mp3',
@@ -576,7 +576,7 @@ export const tracks = [
   },
   {
     id: '64',
-    title: '63. AT-TAGHABUN',
+    title: '64. AT-TAGHABUN',
     artist: 'Dr. Israr Ahmad',
     duration: '00:30:14',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/064%20AT-TAGHABUN.mp3',
@@ -585,7 +585,7 @@ export const tracks = [
   },
   {
     id: '65',
-    title: '64. AT-TALAAQ',
+    title: '65. AT-TALAAQ',
     artist: 'Dr. Israr Ahmad',
     duration: '00:24:54',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/065%20AT-TALAAQ.mp3',
@@ -594,7 +594,7 @@ export const tracks = [
   },
   {
     id: '66',
-    title: '65. AT-TAHREEM',
+    title: '66. AT-TAHREEM',
     artist: 'Dr. Israr Ahmad',
     duration: '00:26:26',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/066%20AT-TAHREEM.mp3',
@@ -603,7 +603,7 @@ export const tracks = [
   },
   {
     id: '67',
-    title: '66. AL-MULK',
+    title: '67. AL-MULK',
     artist: 'Dr. Israr Ahmad',
     duration: '00:20:42',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/067%20AL-MULK.mp3',
@@ -612,7 +612,7 @@ export const tracks = [
   },
   {
     id: '68',
-    title: '67. QALAM',
+    title: '68. QALAM',
     artist: 'Dr. Israr Ahmad',
     duration: '00:24:11',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/068%20QALAM.mp3',
@@ -621,7 +621,7 @@ export const tracks = [
   },
   {
     id: '69',
-    title: '68. AL-HAAQ\'QAH',
+    title: '69. AL-HAAQ\'QAH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:11:00',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/069%20AL-HAAQ_QAH.mp3',
@@ -630,7 +630,7 @@ export const tracks = [
   },
   {
     id: '70',
-    title: '69. MA\'ARIJ',
+    title: '70. MA\'ARIJ',
     artist: 'Dr. Israr Ahmad',
     duration: '00:17:38',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/070%20AL-MA_ARIJ.mp3',
@@ -639,7 +639,7 @@ export const tracks = [
   },
   {
     id: '71',
-    title: '70. AN-NOOH',
+    title: '71. AN-NOOH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:13:58',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/071%20AN-NOOH.mp3',
@@ -648,7 +648,7 @@ export const tracks = [
   },
   {
     id: '72',
-    title: '71. JINN',
+    title: '72. JINN',
     artist: 'Dr. Israr Ahmad',
     duration: '00:19:41',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/072%20JINN.mp3',
@@ -657,7 +657,7 @@ export const tracks = [
   },
   {
     id: '73',
-    title: '72. AL-MUAZMMIL',
+    title: '73. AL-MUAZMMIL',
     artist: 'Dr. Israr Ahmad',
     duration: '00:14:54',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/073%20AL-MUAZMMIL.mp3',
@@ -666,7 +666,7 @@ export const tracks = [
   },
   {
     id: '74',
-    title: '73. AL-MUDASSIR',
+    title: '74. AL-MUDASSIR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:31:07',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/074%20AL-MUDASSIR.mp3',
@@ -675,7 +675,7 @@ export const tracks = [
   },
   {
     id: '75',
-    title: '74. AL-QAYYAMAH',
+    title: '75. AL-QAYYAMAH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:14:37',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/075%20AL-QAYYAMAH.mp3',
@@ -684,7 +684,7 @@ export const tracks = [
   },
   {
     id: '76',
-    title: '75. AD-DAHR',
+    title: '76. AD-DAHR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:13:13',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/076%20AD-DAHR.mp3',
@@ -693,7 +693,7 @@ export const tracks = [
   },
   {
     id: '77',
-    title: '76. AL-MURSALAAT',
+    title: '77. AL-MURSALAAT',
     artist: 'Dr. Israr Ahmad',
     duration: '00:11:58',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/077%20AL-MURSALAAT.mp3',
@@ -702,7 +702,7 @@ export const tracks = [
   },
   {
     id: '78',
-    title: '77. AN-NABAH',
+    title: '78. AN-NABAH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:08:39',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/078%20AN-NABAH.mp3',
@@ -711,7 +711,7 @@ export const tracks = [
   },
   {
     id: '79',
-    title: '78. AN-NAZIYAT',
+    title: '79. AN-NAZIYAT',
     artist: 'Dr. Israr Ahmad',
     duration: '00:15:27',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/079%20AN-NAZIYAT.mp3',
@@ -720,7 +720,7 @@ export const tracks = [
   },
   {
     id: '80',
-    title: '79. AL-ABAS',
+    title: '80. AL-ABAS',
     artist: 'Dr. Israr Ahmad',
     duration: '00:15:13',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/080%20AL-ABAS.mp3',
@@ -729,7 +729,7 @@ export const tracks = [
   },
   {
     id: '81',
-    title: '80. TAKWEER',
+    title: '81. TAKWEER',
     artist: 'Dr. Israr Ahmad',
     duration: '00:11:46',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/081%20-TAKWEER.mp3.mp3',
@@ -738,7 +738,7 @@ export const tracks = [
   },
   {
     id: '82',
-    title: '81. AL-INFITAAR',
+    title: '82. AL-INFITAAR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:08:32',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/082%20AL-INFITAAR.mp3',
@@ -747,7 +747,7 @@ export const tracks = [
   },
   {
     id: '83',
-    title: '82. AL-MUTAFFAFEEN',
+    title: '83. AL-MUTAFFAFEEN',
     artist: 'Dr. Israr Ahmad',
     duration: '00:12:39',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/083%20AL-MUTAFFAFEEN.mp3',
@@ -756,7 +756,7 @@ export const tracks = [
   },
   {
     id: '84',
-    title: '83. AL-INSHIQAAQ',
+    title: '84. AL-INSHIQAAQ',
     artist: 'Dr. Israr Ahmad',
     duration: '00:20:27',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/084%20AL-INSHIQAAQ.mp3',
@@ -765,7 +765,7 @@ export const tracks = [
   },
   {
     id: '85',
-    title: '84. AL-BAROOJ',
+    title: '85. AL-BAROOJ',
     artist: 'Dr. Israr Ahmad',
     duration: '00:08:45',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/085%20AL-BAROOJ.mp3',
@@ -774,7 +774,7 @@ export const tracks = [
   },
   {
     id: '86',
-    title: '85. AT-TARIQ',
+    title: '86. AT-TARIQ',
     artist: 'Dr. Israr Ahmad',
     duration: '00:03:51',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/086%20AT-TARIQ.mp3',
@@ -783,7 +783,7 @@ export const tracks = [
   },
   {
     id: '87',
-    title: '86. AL-A\'ALAA',
+    title: '87. AL-A\'ALAA',
     artist: 'Dr. Israr Ahmad',
     duration: '00:17:11',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/087%20AL-A_ALAA.mp3',
@@ -792,7 +792,7 @@ export const tracks = [
   },
   {
     id: '88',
-    title: '87. AL-GHASHIAH',
+    title: '88. AL-GHASHIAH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:09:50',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/088%20AL-%20GHASHIAH.mp3',
@@ -801,7 +801,7 @@ export const tracks = [
   },
   {
     id: '89',
-    title: '88. AL-FAJR',
+    title: '89. AL-FAJR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:17:20',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/089%20AL-FAJR.mp3',
@@ -810,7 +810,7 @@ export const tracks = [
   },
   {
     id: '90',
-    title: '89. AL-BALAD',
+    title: '90. AL-BALAD',
     artist: 'Dr. Israr Ahmad',
     duration: '00:12:05',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/090%20AL-BALAD.mp3',
@@ -819,7 +819,7 @@ export const tracks = [
   },
   {
     id: '91',
-    title: '90. AS-SHAMS',
+    title: '91. AS-SHAMS',
     artist: 'Dr. Israr Ahmad',
     duration: '00:16:03',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/091%20AS-SHAMS.mp3',
@@ -828,7 +828,7 @@ export const tracks = [
   },
   {
     id: '92',
-    title: '91. AL-LAIL',
+    title: '92. AL-LAIL',
     artist: 'Dr. Israr Ahmad',
     duration: '00:19:55',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/092%20AL-LAIL.mp3',
@@ -837,7 +837,7 @@ export const tracks = [
   },
   {
     id: '93',
-    title: '92. AZ-ZUHA',
+    title: '93. AZ-ZUHA',
     artist: 'Dr. Israr Ahmad',
     duration: '00:09:46',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/093%20AZ-ZUHA.mp3',
@@ -846,7 +846,7 @@ export const tracks = [
   },
   {
     id: '94',
-    title: '93. AL-INSHIRAH',
+    title: '94. AL-INSHIRAH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:08:19',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/094%20AL-INSHIRAH.mp3',
@@ -855,7 +855,7 @@ export const tracks = [
   },
   {
     id: '95',
-    title: '94. AT-TEEN',
+    title: '95. AT-TEEN',
     artist: 'Dr. Israr Ahmad',
     duration: '00:05:46',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/095%20AT-TEEN.mp3',
@@ -864,7 +864,7 @@ export const tracks = [
   },
   {
     id: '96',
-    title: '95. AL-ALAQ',
+    title: '96. AL-ALAQ',
     artist: 'Dr. Israr Ahmad',
     duration: '00:12:04',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/096%20AL-ALAQ.mp3',
@@ -873,7 +873,7 @@ export const tracks = [
   },
   {
     id: '97',
-    title: '96. AL-QADR',
+    title: '97. AL-QADR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:02:51',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/097%20AL-QADR.mp3',
@@ -882,7 +882,7 @@ export const tracks = [
   },
   {
     id: '98',
-    title: '97. AL-BAYYINAH',
+    title: '98. AL-BAYYINAH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:08:35',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/098%20AL-BAYYINAH.mp3',
@@ -891,7 +891,7 @@ export const tracks = [
   },
   {
     id: '99',
-    title: '98. AZ-ZILZAAL',
+    title: '99. AZ-ZILZAAL',
     artist: 'Dr. Israr Ahmad',
     duration: '00:08:55',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/099%20AZ-ZILZAAL.mp3',
@@ -900,7 +900,7 @@ export const tracks = [
   },
   {
     id: '100',
-    title: '99. AL-ADIYAT',
+    title: '100. AL-ADIYAT',
     artist: 'Dr. Israr Ahmad',
     duration: '00:04:30',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/100%20AL-ADIYAT.mp3',
@@ -909,7 +909,7 @@ export const tracks = [
   },
   {
     id: '101',
-    title: '100. AL-QARIYAH',
+    title: '101. AL-QARIYAH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:02:11',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/101%20AL-QARIYAH.mp3',
@@ -918,7 +918,7 @@ export const tracks = [
   },
   {
     id: '102',
-    title: '101. AT-TAKASUR',
+    title: '102. AT-TAKASUR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:03:36',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/102%20AT-TAKASUR.mp3',
@@ -927,7 +927,7 @@ export const tracks = [
   },
   {
     id: '103',
-    title: '102. AL-ASR',
+    title: '103. AL-ASR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:02:41',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/103%20AL-ASR.mp3',
@@ -936,7 +936,7 @@ export const tracks = [
   },
   {
     id: '104',
-    title: '103. AL-HUMAZ\'AH',
+    title: '104. AL-HUMAZ\'AH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:05:03',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/104%20AL-HUMAZ_AH.mp3',
@@ -945,7 +945,7 @@ export const tracks = [
   },
   {
     id: '105',
-    title: '104. AL-FEEL',
+    title: '105. AL-FEEL',
     artist: 'Dr. Israr Ahmad',
     duration: '00:02:59',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/105%20AL-FEEL.mp3',
@@ -954,7 +954,7 @@ export const tracks = [
   },
   {
     id: '106',
-    title: '105. AL-QURESH',
+    title: '106. AL-QURESH',
     artist: 'Dr. Israr Ahmad',
     duration: '00:03:39',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/106%20AL-QURESH.mp3',
@@ -963,7 +963,7 @@ export const tracks = [
   },
   {
     id: '107',
-    title: '106. AL-MA\'OON',
+    title: '107. AL-MA\'OON',
     artist: 'Dr. Israr Ahmad',
     duration: '00:03:44',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/107%20AL-MA_OON.mp3',
@@ -972,7 +972,7 @@ export const tracks = [
   },
   {
     id: '108',
-    title: '107. AL-KAUSAR',
+    title: '108. AL-KAUSAR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:02:36',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/108%20AL-KAUSAR.mp3',
@@ -981,7 +981,7 @@ export const tracks = [
   },
   {
     id: '109',
-    title: '108. AL-KAFIROON',
+    title: '109. AL-KAFIROON',
     artist: 'Dr. Israr Ahmad',
     duration: '00:01:50',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/109%20AL-KAFIROON.mp3',
@@ -990,7 +990,7 @@ export const tracks = [
   },
   {
     id: '110',
-    title: '109. AN-NASR',
+    title: '110. AN-NASR',
     artist: 'Dr. Israr Ahmad',
     duration: '00:01:59',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/110%20AN-NASR.mp3',
@@ -999,7 +999,7 @@ export const tracks = [
   },
   {
     id: '111',
-    title: '110. LAHAB',
+    title: '111. LAHAB',
     artist: 'Dr. Israr Ahmad',
     duration: '00:05:15',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/111%20LAHAB.mp3',
@@ -1008,7 +1008,7 @@ export const tracks = [
   },
   {
     id: '112',
-    title: '111. AL-IKHLAAS',
+    title: '112. AL-IKHLAAS',
     artist: 'Dr. Israr Ahmad',
     duration: '00:02:50',
     url: 'https://ia800605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/112%20AL-IKHLAAS.mp3',
@@ -1017,7 +1017,7 @@ export const tracks = [
   },
   {
     id: '113',
-    title: '112. AL-FALAQ',
+    title: '113. AL-FALAQ',
     artist: 'Dr. Israr Ahmad',
     duration: '00:07:17',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/113%20AL-FALAQ.mp3',
@@ -1026,7 +1026,7 @@ export const tracks = [
   },
   {
     id: '114',
-    title: '113. AN-NAAS',
+    title: '114. AN-NAAS',
     artist: 'Dr. Israr Ahmad',
     duration: '00:14:49',
     url: 'https://ia600605.us.archive.org/20/items/BayanUlQuranByDr.IsrarAhmed_201707/114%20AN-NAAS.mp3',
