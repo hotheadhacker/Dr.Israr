@@ -166,7 +166,7 @@ export default Player = ({route, navigation}) => {
     setTempSlider(true);
   }
 
-  const handleOnSliderEnd = async (val) => {
+  const handleOnSliderEnd = async () => {
     // disable temp slider to false
     setTempSlider(false);
     console.log('Final Val: '+val);
@@ -182,6 +182,31 @@ export default Player = ({route, navigation}) => {
 
   }
 
+  const handleForwardSeek = async () => {
+    try{
+      // +15 secs
+      let currPos = await TrackPlayer.getPosition() || 0;
+      TrackPlayer.seekTo(currPos + 15);
+      console.log('ff 30 secs: '+ currPos);
+      
+    }catch(e){
+      console.log(e);
+    }
+    
+  }
+  const handleBackwardSeek = async () => {
+    try{
+      // -15 sec
+      let currPos = await TrackPlayer.getPosition() || 0;
+      TrackPlayer.seekTo(currPos - 15);
+      console.log('ff 30 secs: '+ currPos);
+      
+    }catch(e){
+      console.log(e);
+    }
+    
+  }
+
   const handleLiked = async (trackId) => {
     console.log(currentLikedTracks);
     // await AsyncStorage.setItem('likedTracks', JSON.stringify([1]))
@@ -194,7 +219,7 @@ export default Player = ({route, navigation}) => {
       })
       setCurrentLikedTracks(arr);
       await AsyncStorage.setItem('likedTracks', JSON.stringify(arr));
-      Vibration.vibrate(0.2 * ONE_SECOND_IN_MS)
+      Vibration.vibrate(0.1 * ONE_SECOND_IN_MS)
       return;
       }
       let tempLikes = [...currentLikedTracks, trackId]
@@ -202,7 +227,8 @@ export default Player = ({route, navigation}) => {
       
       // save to async storage
       await AsyncStorage.setItem('likedTracks', JSON.stringify(tempLikes));
-      Vibration.vibrate(0.4 * ONE_SECOND_IN_MS)
+      Vibration.vibrate(0.1 * ONE_SECOND_IN_MS)
+      Vibration.vibrate(0.1 * ONE_SECOND_IN_MS)
 
     }
     else{
@@ -228,25 +254,35 @@ export default Player = ({route, navigation}) => {
   return (
     <SafeAreaView style={styles.container}>
       <ScrollView>
-      <View
-        style={{
-          flexDirection: 'row',
-          justifyContent: 'space-between',
-          padding: 10,
-        }}>
-        <TouchableOpacity>
-          <Icon
-            name="chevron-down"
-            style={{color: 'white'}}
-            onPress={() => navigation.dispatch(popAction)}
-            size={40}
-          />
-        </TouchableOpacity>
-        <Text style={{fontSize: 20, paddingTop: 10, color: 'white'}}>
+      <View style={{ flexDirection: 'row', justifyContent: 'space-between', padding: 10 }}>
+      <TouchableOpacity>
+        <Icon
+          name="chevron-down"
+          style={{ color: 'white', marginRight: 20 }}
+          onPress={() => navigation.dispatch(popAction)}
+          size={40}
+        />
+      </TouchableOpacity>
+
+      {/* Centering the "Now Playing" text */}
+      <View style={{ flex: 1, alignItems: 'center' }}>
+        <Text style={{ fontSize: 20, paddingTop: 10, color: 'white' }}>
           Now Playing
         </Text>
-        <Icon name="dots-vertical" style={{color: 'white'}} size={40} />
       </View>
+
+      <View style={{ flexDirection: 'row', justifyContent: 'space-between', padding: 10 }}>
+        <TouchableOpacity onPress={() => handleLiked(tracks[currentTrack]?.id)}>
+          <Icon
+            name="cards-heart"
+            style={{ color: currentLikedTracks.includes(tracks[currentTrack]?.id) ? '#e31b23' : 'white'}}
+            size={35}
+          />
+        </TouchableOpacity>
+
+        <Icon name="dots-vertical" style={{ color: 'white' }} size={40} />
+      </View>
+    </View>
 
       <View style={styles.artworkContainer}>
         <Image style={{borderRadius: 50/2, borderColor: 'green', borderWidth: 5}} source={tracks[currentTrack]?.artwork} />
@@ -279,7 +315,12 @@ export default Player = ({route, navigation}) => {
         <Text style={{color: 'white'}}>{totalDuration || tracks[currentTrack]?.duration}</Text>
       </View>
       <View style={{flexDirection: 'row', justifyContent: 'center'}}>
-        <View style={{flexDirection: 'row', justifyContent: 'center', marginLeft: 60}}>
+        <View style={{flexDirection: 'row', justifyContent: 'center'}}>
+                      <TouchableOpacity onPress={handleBackwardSeek}>
+                        <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
+                          <Icon name="rewind-15" size={35} style={{color: 'white'}}/>
+                        </View>
+                      </TouchableOpacity>
                       <TouchableOpacity onPress={handlePrev}>
                           <Icon name="skip-previous-outline" size={60} style={{color: 'white'}} />
                       </TouchableOpacity>
@@ -289,10 +330,14 @@ export default Player = ({route, navigation}) => {
                       <TouchableOpacity onPress={handleNext}>
                           <Icon name="skip-next-outline" size={60} style={{color: 'white'}}/>
                       </TouchableOpacity>
+                      <TouchableOpacity onPress={handleForwardSeek}>
+                        <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
+                          <Icon name="fast-forward-15" size={30} style={{color: 'white'}}/>
+                        </View>
+                      </TouchableOpacity>
+
           </View>
-          <TouchableOpacity onPress={() => handleLiked(tracks[currentTrack]?.id)}>
-            <Icon name='cards-heart' style={{color: currentLikedTracks.includes(tracks[currentTrack]?.id) ? 'green' : 'white', marginTop: 10, marginLeft: 20}} size={40} />
-          </TouchableOpacity>
+         
       </View>
       
         {/* more about surah  */}

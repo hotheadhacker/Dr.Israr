@@ -142,8 +142,8 @@ android {
         applicationId "dev.isalman.drisrar"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 21
-        versionName "4.1-public-testing-nightly"
+        versionCode 22
+        versionName "4.2-stable"
         buildConfigField "boolean", "IS_NEW_ARCHITECTURE_ENABLED", isNewArchitectureEnabled().toString()
 
         if (isNewArchitectureEnabled()) {

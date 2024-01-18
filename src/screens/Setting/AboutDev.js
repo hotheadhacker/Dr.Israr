@@ -24,7 +24,7 @@ export default AboutDev = () => {
            
             <View style={{padding: 30, backgroundColor: '#181818', borderRadius: 15, margin: 20}}>
 
-                <Text style={{color: 'white'}}>This application id developed by Salman Qureshi, All Rights Reserved</Text>
+                <Text style={{color: 'white'}}>This is an open-source application is developed & maintained by Salman Qureshi and others</Text>
                 <View style={{marginLeft: 10, marginTop: 10}}>
                     <TouchableOpacity onPress={()=>handleClick('https://github.com/hotheadhacker')}>
                         <Text style={{color: 'orange'}}>1. GitHub</Text>

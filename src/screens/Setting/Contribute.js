@@ -34,7 +34,7 @@ export default AboutDev = () => {
 
                 <Text style={{color: 'white'}}>This project is fully open-source. Help this project in following ways:</Text>
                 <View style={{marginLeft: 10, marginTop: 10}}>
-                    <TouchableOpacity onPress={()=>handleClick('https://github.com/hotheadhacker')}>
+                    <TouchableOpacity onPress={()=>handleClick('https://github.com/hotheadhacker/Dr.Israr')}>
                         <Text style={{color: 'orange'}}>1. Improve code on GitHub</Text>
                     </TouchableOpacity>
                     <TouchableOpacity onPress={()=>handleClick('https://discord.gg/6NfgfahrxX')}>

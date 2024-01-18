@@ -204,11 +204,17 @@ export default Setting = ({route, navigation}) => {
           <Icon name="git" size={25} style={{marginRight: 5, color: 'white'}} />
           <Text style={{color: 'white', fontSize: 18}}>Version</Text>
         </View>
-        <Text style={{color: 'white', fontSize: 15}}>v3.18-public-release-nightly</Text>
+        <Text style={{color: 'white', fontSize: 15}}>4.2-stable</Text>
       </View>
+      <View style={{color: 'white', flex: 1, justifyContent: 'center', alignItems: 'center', marginTop: 10, fontStyle: 'italic'}}>
+      <Text style={{color: 'white', flex: 1, justifyContent: 'center', alignItems: 'center', marginTop: 10, fontStyle: 'italic'}}>
+        Keep Praying For Palistine 🇵🇸
+      </Text>
+      </View >
       
-      <Text style={{color: 'white', marginTop: 10, fontStyle: 'italic'}}>⚠️ This is a beta release, there might be some 🐛 bugs, and some of the features might be unresponsive, if you spotted one</Text>
-      <TouchableOpacity onPress={() => navigation.navigate('ContributeScreen')}><Text Text style={{color: 'orange', fontStyle: 'italic'}}>let us know!</Text></TouchableOpacity>
+      
+      {/* <Text style={{color: 'white', marginTop: 10, fontStyle: 'italic'}}>⚠️ This is a beta release, there might be some 🐛 bugs, and some of the features might be unresponsive, if you spotted one</Text>
+      <TouchableOpacity onPress={() => navigation.navigate('ContributeScreen')}><Text Text style={{color: 'orange', fontStyle: 'italic'}}>let us know!</Text></TouchableOpacity> */}
     </SafeAreaView>
   );
 
