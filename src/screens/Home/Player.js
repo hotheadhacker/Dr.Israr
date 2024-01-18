@@ -166,7 +166,7 @@ export default Player = ({route, navigation}) => {
     setTempSlider(true);
   }
 
-  const handleOnSliderEnd = async () => {
+  const handleOnSliderEnd = async (val) => {
     // disable temp slider to false
     setTempSlider(false);
     console.log('Final Val: '+val);
