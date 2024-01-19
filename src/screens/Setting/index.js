@@ -208,7 +208,7 @@ export default Setting = ({route, navigation}) => {
       </View>
       <View style={{color: 'white', flex: 1, justifyContent: 'center', alignItems: 'center', marginTop: 10, fontStyle: 'italic'}}>
       <Text style={{color: 'white', flex: 1, justifyContent: 'center', alignItems: 'center', marginTop: 10, fontStyle: 'italic'}}>
-        Keep Praying For Palistine 🇵🇸
+        Keep Praying For Palestine 🇵🇸
       </Text>
       </View >
       
